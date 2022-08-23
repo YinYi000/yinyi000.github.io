@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://yinyi000.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2022 22:45:09 +0200</lastBuildDate><atom:link href="https://yinyi000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>尹一的自我介绍</title>
+      <link>https://yinyi000.github.io/post/blog/</link>
+      <pubDate>Tue, 23 Aug 2022 22:45:09 +0200</pubDate>
+      
+      <guid>https://yinyi000.github.io/post/blog/</guid>
+      <description>xingmin : ayin
+zhongghuarenmingongheguo huachunying</description>
+    </item>
+    
+  </channel>
+</rss>
